@@ -6,7 +6,7 @@ Responsive personal portfolio website showcasing my web development projects, te
 [netlify link](https://deepakmadar-portfolio.netlify.app/)
 
 ## GitHub Live link
-![Git Hub Link](https://deepakm-code.github.io/Portfolio/)
+[Git Hub Link](https://deepakm-code.github.io/Portfolio/)
 
 ## Screenshot
 ## Home Page
@@ -31,6 +31,10 @@ Responsive personal portfolio website showcasing my web development projects, te
 - HTML
 - CSS
 - JavaScript
+
+## Contact
+Email: deepakmadar02@gmail.com
+LinkedIn: https://www.linkedin.com/in/deepak-madar/
 
 ## Author
 Deepak Madar
