@@ -484,13 +484,106 @@ nav .fa-solid{
         font-size: 16px;
         margin-right: 20px;
     }
+        #portfolio{
+        padding: 50px 0;
+    }
+
+    .work-list{
+        grid-template-columns: 1fr;
+        grid-gap: 25px;
+        margin-top: 30px;
+    }
+
+    .work{
+        border-radius: 12px;
+    }
+
+    .work img{
+        height: 250px;
+        border-radius: 12px;
+    }
+
+    .layer{
+        padding: 0 20px;
+        border-radius: 12px;
+    }
+
+    .layer h3{
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+
+    .layer p{
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    .layer a{
+        margin-top: 15px;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 16px;
+    }
+
+    .btn{
+        padding: 12px 35px;
+        font-size: 14px;
+        margin-top: 35px;
+    }
 
     .contact-left,
     .contact-right{
         flex-basis: 100%;
     }
+     /* Fix Contact Buttons */
+    .btn.btn2{
+        padding: 10px 22px;
+        font-size: 14px;
+        border-radius: 8px;
+    }
+
+    form .btn2{
+        padding: 10px 22px;
+        font-size: 14px;
+        margin-top: 15px;
+        border-radius: 8px;
+        width: fit-content; /* prevents full-width feel */
+    }
+
+    form .btn2 i{
+        font-size: 16px;
+    }
 
     .copyright{
         font-size: 14px;
+    }
+}
+
+/* -------------------- Extra Small Devices -------------------- */
+
+@media only screen and (max-width: 480px){
+
+    .work img{
+        height: 220px;
+    }
+
+    .layer h3{
+        font-size: 18px;
+    }
+
+    .layer p{
+        font-size: 13px;
+    }
+
+    .btn{
+        width: 80%;
+        padding: 12px 20px;
+    }
+     .btn.btn2,
+    form .btn2{
+        width: 100%;
+        text-align: center;
+        padding: 12px;
     }
 }
