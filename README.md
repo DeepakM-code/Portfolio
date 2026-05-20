@@ -3,7 +3,7 @@ Responsive personal portfolio website showcasing my web development projects, te
 
 ## Live Demo
 ## Live Website
-![netlify link](https://deepakmadar-portfolio.netlify.app/)
+[netlify link](https://deepakmadar-portfolio.netlify.app/)
 
 ## GitHub Live link
 ![Git Hub Link](https://deepakm-code.github.io/Portfolio/)
